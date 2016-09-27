@@ -5,7 +5,7 @@ public class AddressBook {
 	private ArrayList<BuddyInfo> myList;
 	
 	public AddressBook(){
-		
+		//uohb
 		
 		ArrayList<BuddyInfo> myList = new ArrayList<BuddyInfo>();
 		
