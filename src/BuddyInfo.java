@@ -8,7 +8,7 @@ public class BuddyInfo {
 		// TODO Auto-generated method stub
 		BuddyInfo myBudd=new BuddyInfo(10,"ali");
 		System.out.println("Hello "+ myBudd.getName() );
-		
+		// checking the new branch
 		
 	}
 	public BuddyInfo(int age,String name){
