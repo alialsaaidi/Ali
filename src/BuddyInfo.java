@@ -3,7 +3,7 @@ public class BuddyInfo {
 	
 	 int age;
 	 String name;
-
+// testing
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		BuddyInfo myBudd=new BuddyInfo(10,"ali");
